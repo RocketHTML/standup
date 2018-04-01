@@ -1,0 +1,8 @@
+The reason why there are so many fake certifications, is because it's really hard to combat that angle of deception. If someone has a bunch of certifications claiming they're knowledgable in the obscure technology that your company needs, there's a chance that you'll onboard them, because you don't have the time, money, or expertise to verify their education. It's an effective method of deception. But now, all of the data you're sending to your clients is erroneous, because someone in your company was a bad hire, and you don't have time to fix that. 
+
+So we want to erradicate this form of deception. We want the verification of certifications to be automated and accurate. 
+
+
+People need to know how to issue certificates 
+	Became senior developer
+This ludicrous critical path is what we're trying to expell from our society.

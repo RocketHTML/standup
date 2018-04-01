@@ -1,0 +1,48 @@
+How To Use
+
+How to check testnet balance : 
+	https://www.blocktrail.com/tBTC/address/<testnet address>/transactions
+
+==================================================================================================
+Bitcoin Addresses
+
+n - regtest prefix
+m - testnet prefix
+
+3/24/2018
+Addr1: mxJZqGsZfDRrtJjHtdcTY6dQhPjbrnnxud
+key:   cPLUELUb7NSWQcruVxrzL5mw7C4jeDirZaSCfb5AgZ5bGYf8yk1f
+
+3/24/2018
+Addr2: mgztrf4BQcb54AdVaL2z3Ta8fYZzmt2hxu
+key:   cPLdMBpbmcBGu8VzJarq25Qxv9bx64izSZRqdoCZwATighyxVSLs
+
+3/24/2018
+Addr3: mysKRY4Nargf6EjTLQ6w1zx8z6Jsn68DNK
+key:   cW3vXymJpevbS7xqb92eHMKhQAE7mFHPEFJ3tuWnPTokUWAeQR8P
+
+3/24/2018 mainnet
+Blockchain.info wallet ID: 8ff8cc10-ccce-4490-8372-4604f977b8d0
+Recovery: 1.upset 2.carry 3.garbage 4.mosquito 5.total 6.ketchup 7.sick 8.endless
+	  9.cry 10.section 11.spike 12.oyster
+
+
+
+=========================================================================================================
+Issuer Config File 
+
+issuing_address = <issuing-address>
+
+chain=<bitcoin_regtest|bitcoin_testnet|bitcoin_mainnet|ethereum_testnet|ethereum_ropsten|ethereum_mainnet|mockchain>
+    
+usb_name = </Volumes/path-to-usb/>
+key_file = <file-you-saved-pk-to>
+
+unsigned_certificates_dir=<path-to-your-unsigned-certificates>
+blockchain_certificates_dir=<path-to-your-blockchain-certificates>
+work_dir=<path-to-your-workdir>
+
+no_safe_mode
+
+# advanced: uncomment the following line if you're running a bitcoin node
+# bitcoind
