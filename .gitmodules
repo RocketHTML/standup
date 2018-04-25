@@ -1,3 +1,6 @@
 [submodule "blockness-site"]
 	path = blockness-site
 	url = git@github.com:RocketHTML/blockness-site.git
+[submodule "blocky"]
+	path = blocky
+	url = git@github.com:RocketHTML/blockness-site.git
